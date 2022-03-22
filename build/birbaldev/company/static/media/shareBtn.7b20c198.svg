@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Group_1825" data-name="Group 1825" transform="translate(-1190 -267)">
+    <path id="Path_1422" data-name="Path 1422" d="M12,0A12,12,0,1,1,0,12,12,12,0,0,1,12,0Z" transform="translate(1190 267)" fill="#d8dce2"/>
+    <path id="Icon_material-share" data-name="Icon material-share" d="M12.622,10.624a1.577,1.577,0,0,0-1.061.417L7.7,8.794a1.5,1.5,0,0,0,0-.758L11.517,5.81A1.621,1.621,0,1,0,11,4.624,1.772,1.772,0,0,0,11.046,5L7.229,7.229a1.624,1.624,0,1,0,0,2.372l3.855,2.252a1.528,1.528,0,0,0-.043.352,1.581,1.581,0,1,0,1.581-1.581Z" transform="translate(1191.5 271)" fill="#1d9cff"/>
+  </g>
+</svg>

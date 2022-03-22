@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="26" height="26" viewBox="0 0 26 26">
+  <g id="Group_1707" data-name="Group 1707" transform="translate(-435 -412.215)">
+    <circle id="Ellipse_179" data-name="Ellipse 179" cx="13" cy="13" r="13" transform="translate(435 412.215)" fill="rgba(33,116,93,0.08)"/>
+    <g id="expert" transform="translate(440.5 417.196)">
+      <path id="Path_1735" data-name="Path 1735" d="M14.762,343.657l-1.891-.269-.834-1.65-.834,1.65-1.369.195-1.369-.195-.834-1.65-.834,1.65-1.369.195-1.369-.195-.834-1.65-.834,1.65L.5,343.657l1.369,1.3-.321,1.779,1.677-.816,1.677.815-.321-1.779.847-.806.847.806-.321,1.779,1.677-.816,1.677.815-.321-1.779.847-.806.847.806-.321,1.779,1.677-.816,1.677.815-.321-1.779Zm0,0" transform="translate(0 -331.7)" fill="#c69e5d"/>
+      <path id="Path_1736" data-name="Path 1736" d="M144.445,153.08a3.084,3.084,0,0,0-6.168,0v2.2h6.168Zm0,0" transform="translate(-133.73 -145.59)" fill="#21745d"/>
+      <path id="Path_1737" data-name="Path 1737" d="M172.683,2.2a2.2,2.2,0,1,0-2.2,2.2,2.205,2.205,0,0,0,2.2-2.2Zm0,0" transform="translate(-162.849)" fill="#21745d"/>
+    </g>
+  </g>
+</svg>
