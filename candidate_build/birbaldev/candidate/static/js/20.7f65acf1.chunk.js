@@ -1,0 +1,2 @@
+(this["webpackJsonpbirbal-candidate-app"]=this["webpackJsonpbirbal-candidate-app"]||[]).push([[20],{206:function(e,a,t){"use strict";t.r(a);var n=t(0),c=t.n(n);a.default=function(){return c.a.createElement(c.a.Fragment,null,c.a.createElement("div",{className:"text-center"},c.a.createElement("h1",{className:"my-5 pt-5"},"Sorry we can\u2019t find this page")))}}}]);
+//# sourceMappingURL=20.7f65acf1.chunk.js.map
