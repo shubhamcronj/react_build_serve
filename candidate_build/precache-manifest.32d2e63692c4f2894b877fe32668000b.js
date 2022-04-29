@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "932ffd615f133a3e995fa7c4c840fb01",
+    "revision": "ee6d7685d3db7f5ac8045f7a836a0abb",
     "url": "/birbaldev/candidate/index.html"
   },
   {
@@ -32,7 +32,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/birbaldev/candidate/static/css/19.081098f3.chunk.css"
   },
   {
-    "revision": "16bc1f81fcba2640b340",
+    "revision": "7e294f3d222cf5c86260",
     "url": "/birbaldev/candidate/static/css/2.b32560e9.chunk.css"
   },
   {
@@ -44,15 +44,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/birbaldev/candidate/static/css/6.f4f2d0e5.chunk.css"
   },
   {
-    "revision": "e4aa1206ce4e69415a07",
+    "revision": "0d5a0699c4727abc7d8a",
     "url": "/birbaldev/candidate/static/css/7.796f7b97.chunk.css"
   },
   {
-    "revision": "9cc0c83593993c4b9d62",
+    "revision": "aaef7aafebf3891db73a",
     "url": "/birbaldev/candidate/static/css/8.6def4b39.chunk.css"
   },
   {
-    "revision": "653d2f8b29bdb681ffd4",
+    "revision": "346ad7d96ec9b8aba634",
     "url": "/birbaldev/candidate/static/css/9.b932e7c0.chunk.css"
   },
   {
@@ -112,8 +112,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/birbaldev/candidate/static/js/19.20cc6341.chunk.js"
   },
   {
-    "revision": "16bc1f81fcba2640b340",
-    "url": "/birbaldev/candidate/static/js/2.a321fb2d.chunk.js"
+    "revision": "7e294f3d222cf5c86260",
+    "url": "/birbaldev/candidate/static/js/2.ee83b1dd.chunk.js"
   },
   {
     "revision": "0667089b58c5f9f5682e",
@@ -148,28 +148,28 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/birbaldev/candidate/static/js/6.14d9058a.chunk.js"
   },
   {
-    "revision": "e4aa1206ce4e69415a07",
-    "url": "/birbaldev/candidate/static/js/7.94a80f94.chunk.js"
+    "revision": "0d5a0699c4727abc7d8a",
+    "url": "/birbaldev/candidate/static/js/7.bc1c4ba2.chunk.js"
   },
   {
-    "revision": "9cc0c83593993c4b9d62",
-    "url": "/birbaldev/candidate/static/js/8.3feac04f.chunk.js"
+    "revision": "aaef7aafebf3891db73a",
+    "url": "/birbaldev/candidate/static/js/8.17e543a6.chunk.js"
   },
   {
     "revision": "129bfd9e8add915285bbdbe6df6e37c9",
-    "url": "/birbaldev/candidate/static/js/8.3feac04f.chunk.js.LICENSE.txt"
+    "url": "/birbaldev/candidate/static/js/8.17e543a6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "653d2f8b29bdb681ffd4",
-    "url": "/birbaldev/candidate/static/js/9.e8b51033.chunk.js"
+    "revision": "346ad7d96ec9b8aba634",
+    "url": "/birbaldev/candidate/static/js/9.431b37df.chunk.js"
   },
   {
     "revision": "f1149f28065d4dc23fb0",
     "url": "/birbaldev/candidate/static/js/main.fe345bca.chunk.js"
   },
   {
-    "revision": "d3c380a1334b570a30fd",
-    "url": "/birbaldev/candidate/static/js/runtime-main.f8afe47b.js"
+    "revision": "40282a99b50271f70ae3",
+    "url": "/birbaldev/candidate/static/js/runtime-main.ade93cf8.js"
   },
   {
     "revision": "baee2f23261de7dca697c816409230b6",
