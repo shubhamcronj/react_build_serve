@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="58.375" height="39" viewBox="0 0 58.375 39">
+  <g id="Group_2552" data-name="Group 2552" transform="translate(-1010.078 -427.919)">
+    <rect id="Rectangle_2181" data-name="Rectangle 2181" width="58.375" height="39" rx="5" transform="translate(1010.078 427.919)" fill="#fff"/>
+    <g id="video-camera" transform="translate(1024.957 342.5)">
+      <g id="Group_2548" data-name="Group 2548" transform="translate(0 96.512)">
+        <g id="Group_2547" data-name="Group 2547" transform="translate(0 0)">
+          <path id="Path_1910" data-name="Path 1910" d="M16.189,96.512H3.131A3.14,3.14,0,0,0,0,99.643V110.2a3.14,3.14,0,0,0,3.131,3.131H16.189A3.14,3.14,0,0,0,19.32,110.2V99.643A3.12,3.12,0,0,0,16.189,96.512Z" transform="translate(0 -96.512)" fill="#E61212"/>
+        </g>
+      </g>
+      <g id="Group_2550" data-name="Group 2550" transform="translate(20.885 98.184)">
+        <g id="Group_2549" data-name="Group 2549" transform="translate(0 0)">
+          <path id="Path_1911" data-name="Path 1911" d="M346.921,123.9a1.6,1.6,0,0,0-.532.219l-4.885,2.818V134.2l4.916,2.818a1.862,1.862,0,0,0,2.568-.689,1.913,1.913,0,0,0,.25-.939v-9.676A1.885,1.885,0,0,0,346.921,123.9Z" transform="translate(-341.504 -123.847)" fill="#E61212"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

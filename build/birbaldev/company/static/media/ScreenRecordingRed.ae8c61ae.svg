@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="58.375" height="39" viewBox="0 0 58.375 39">
+  <g id="Group_2551" data-name="Group 2551" transform="translate(-932.59 -427.919)">
+    <rect id="Rectangle_2182" data-name="Rectangle 2182" width="58.375" height="39" rx="5" transform="translate(932.59 427.919)" fill="#fff"/>
+    <g id="video-tutorial" transform="translate(948.652 432.938)">
+      <path id="Path_1912" data-name="Path 1912" d="M130,452h-6.865a2.457,2.457,0,0,1-2.31,1.641H120v1.641h13.125v-1.641h-.82A2.457,2.457,0,0,1,130,452Zm0,0" transform="translate(-113.438 -427.281)" fill="#E61212"/>
+      <path id="Path_1913" data-name="Path 1913" d="M210,163.023v3.5l2.623-1.749Zm0,0" transform="translate(-198.516 -154.108)" fill="#E61212"/>
+      <path id="Path_1914" data-name="Path 1914" d="M390,90h4.922v13.125H390Zm0,0" transform="translate(-368.672 -85.078)" fill="#E61212"/>
+      <path id="Path_1915" data-name="Path 1915" d="M133.125,6.563H128.2V0H120V18.047h13.125Zm-9.844,8.915V5.85l7.221,4.814Zm0,0" transform="translate(-113.438)" fill="#E61212"/>
+      <path id="Path_1916" data-name="Path 1916" d="M0,360H26.25v3.391H0Zm0,0" transform="translate(0 -340.313)" fill="#E61212"/>
+      <path id="Path_1917" data-name="Path 1917" d="M0,90H4.922v13.125H0Zm0,0" transform="translate(0 -85.078)" fill="#E61212"/>
+      <path id="Path_1918" data-name="Path 1918" d="M303.281,12.07,300,8.789V13.23h3.281Zm0,0" transform="translate(-283.594 -8.308)" fill="#E61212"/>
+    </g>
+  </g>
+</svg>

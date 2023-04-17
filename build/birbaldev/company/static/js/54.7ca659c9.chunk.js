@@ -1,0 +1,2 @@
+(this["webpackJsonpadmin-hire-tool-frontend"]=this["webpackJsonpadmin-hire-tool-frontend"]||[]).push([[54],{1527:function(n,t,e){"use strict";e.r(t),e.d(t,"default",(function(){return l}));var r=e(51),a=e(52),i=e(60),o=e(59),u=e(1),c=e.n(u),l=function(n){Object(i.a)(e,n);var t=Object(o.a)(e);function e(){return Object(r.a)(this,e),t.apply(this,arguments)}return Object(a.a)(e,[{key:"render",value:function(){return c.a.createElement("div",null,"Unavailable")}}]),e}(u.Component)}}]);
+//# sourceMappingURL=54.7ca659c9.chunk.js.map
